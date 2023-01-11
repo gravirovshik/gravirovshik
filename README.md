@@ -1,6 +1,6 @@
 [![Header](https://github.com/gravirovshik/gravirovshik/blob/main/assets/header%20(2).png)](https://gravirovshik.github.io/)
 
-## I,m QA Engineer. Like manual and auto testing.
+## I,m QA Engineer. I need your API, DOCUMENTS and TEST STAGE.
 
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
