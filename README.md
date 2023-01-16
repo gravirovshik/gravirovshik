@@ -22,6 +22,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_thousander)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gravirovshik&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravirovshik)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Stats:
 
