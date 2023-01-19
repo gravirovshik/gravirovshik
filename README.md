@@ -24,10 +24,10 @@
 ### Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gravirovshik&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=gravirovshik&hide=stars,issues&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gravirovshik&hide=stars,issues&show_icons=true&theme=radical)
 
 ### languages:
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=gravirovshik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravirovshik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
